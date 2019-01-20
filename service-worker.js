@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/create-react-app-babylonjs-pwa/precache-manifest.e8a12084ef5029737f380a4d2f640af5.js"
+  "/create-react-app-babylonjs-pwa/precache-manifest.146a4386fa9a8b58587a20e6e1a5697e.js"
 );
 
 workbox.clientsClaim();
